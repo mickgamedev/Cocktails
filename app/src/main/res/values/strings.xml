@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cocktails</string>
+    <string name="ingridients">Ingridients</string>
+
+    <string name="to_translate">translate to Russian</string>
+    <string name="to_original">show original</string>
+</resources>
